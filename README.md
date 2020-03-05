@@ -20,10 +20,11 @@ In 2008, the financial crisis had large impact on the world's economy, however, 
 Monthly return of gold from January 2002 to December 2017 (Training Sample).
 ![3](https://user-images.githubusercontent.com/56982400/76017471-a878c000-5eec-11ea-8965-d7c7a4a1d6c1.jpeg)
 
-Decomposition of the monthly return of gold time serie.
+Decomposition of the monthly return of gold time series.
 ![4](https://user-images.githubusercontent.com/56982400/76017596-dd851280-5eec-11ea-9ef8-af76b6027780.jpeg)
 
 Density histogram of the residuals (red) and the density curve of the normal distribution with the same mean and variance (blue line).
+
 ![8](https://user-images.githubusercontent.com/56982400/76017661-f55c9680-5eec-11ea-82f3-5df7aec78435.jpeg)
 
 Quantile-Quantile plot: Residuals from ARIMA (0,0,2) Model with a 45-degree reference line.
