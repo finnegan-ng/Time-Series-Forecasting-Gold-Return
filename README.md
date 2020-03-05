@@ -10,4 +10,5 @@ The data used in this report relates to the prices of gold. The price of gold is
 
 ## Results
 ![1](https://user-images.githubusercontent.com/56982400/76016937-baa62e80-5eeb-11ea-9330-3ad89cf00edb.jpeg)
+
 Monthly price per one troy ounce of Gold in USD from January 2002 to December 2018.
